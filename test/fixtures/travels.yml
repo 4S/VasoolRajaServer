@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  date: 2012-03-14
+  from: MyString
+  to: MyString
+  cost: 9.99
+
+two:
+  date: 2012-03-14
+  from: MyString
+  to: MyString
+  cost: 9.99
